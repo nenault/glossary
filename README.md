@@ -1,1 +1,1 @@
-# glossary
+# Glossaire en PHP
