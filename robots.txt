@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://90.92.131.234/glossary/sitemap.xml

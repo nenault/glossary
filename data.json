@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "word": "Lorem",
+    "def": "Nunc rutrum, augue a aliquam vestibulum, orci lacus ornare enim, nec scelerisque lorem ipsum at lectus. Quisque ac ligula mi. Aenean sit amet leo id felis sodales pellentesque eu ut felis. In et sem sapien. Duis faucibus tortor eros, imperdiet scelerisque lorem ultrices id. Curabitur ullamcorper nibh id augue scelerisque elementum. Curabitur lacus nunc, maximus eu nisi eget, rutrum cursus leo. Aenean cursus non nunc ut malesuada. Integer eu commodo neque.",
+    "img": "https://images.unsplash.com/photo-1612453949129-628f77f1d93b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+  },
+  {
+    "id": 2,
+    "word": "Ipsum",
+    "def": "Donec et ipsum in sapien rutrum commodo. Fusce ornare urna eu tortor rutrum, vel dictum lacus viverra. Curabitur eget sollicitudin felis. Maecenas quis sapien dignissim, posuere massa ac, accumsan est. Nulla ultricies vestibulum mi id pellentesque. Integer eu nibh felis. Ut gravida auctor malesuada. Proin eget congue risus. Integer fringilla ut nunc non egestas. Sed convallis pellentesque felis, quis fringilla nisl vehicula non. Nulla facilisi. Pellentesque rutrum efficitur leo, a vestibulum nunc bibendum efficitur.",
+    "img": "https://images.unsplash.com/photo-1613672710119-573123221c48?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+  },
+  {
+    "id": 3,
+    "word": "Lorem Ipsum",
+    "def": "Quisque iaculis massa at ipsum faucibus, eget tempor urna suscipit. Phasellus ex eros, venenatis id enim nec, commodo bibendum nisi. Vivamus nunc tortor, dignissim eu velit ut, vehicula mollis ipsum. Vivamus commodo felis nibh. Phasellus tellus lorem, vestibulum at dapibus a, viverra a ipsum. In efficitur sodales dui dictum pharetra. Donec a purus et metus consectetur pharetra vel pulvinar lorem. Aliquam ultricies, nibh a hendrerit faucibus, purus lacus viverra dolor, a tincidunt orci tellus id nisi. Donec ac egestas neque.",
+    "img": "https://images.unsplash.com/photo-1612831660648-ba96d72bfc5b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=925&q=80"
+  }
+]
